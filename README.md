@@ -21,11 +21,11 @@ I'm Swadheen Mishra, a class 10 student, and I've created this Hangman game as p
 
 2. Clone the repository or download the Python script to your local machine.
 
-3. Install the required dependency 'termcolor' using pip:
+3. Install the required dependency 'termcolor' using pip. 
 
 4. Open your terminal or command prompt and navigate to the directory where the script is located.
 
-5. Run the script using the following command:
+5. Run the script using the following command: py main.py
 
 6. Follow the on-screen instructions to play the game.
 
